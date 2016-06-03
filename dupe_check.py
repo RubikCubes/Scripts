@@ -10,7 +10,7 @@ def read_csv():
   csv_reader = csv.reader(csv_file)
   return csv_reader
   
-def check_for_dupes(checking_file): #took out writer (checking_file, writer)
+def check_for_dupes(checking_file): 
   new_list = []
   for row in checking_file:
     email = row[0]
