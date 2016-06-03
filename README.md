@@ -1,3 +1,3 @@
-# Tutorial
+# Scripts
 
-This is my tutorial repository.
+A repo of scripts
